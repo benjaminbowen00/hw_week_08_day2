@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TopTrees</string>
+    <string name="tree_activity_label">Information about the tree</string>
+    <string name="top_trees_activity_label">The best trees in Britain</string>
+</resources>
